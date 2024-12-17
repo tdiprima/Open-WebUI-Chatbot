@@ -1,5 +1,5 @@
 {
-  "name": "llmanything",
+  "name": "OpenWebUI-Chatbot",
   "version": "1.0.0",
   "description": "This scaffolding includes the following components:",
   "main": "server.js",
@@ -12,7 +12,6 @@
   "license": "ISC",
   "devDependencies": {
     "axios": "^1.7.7",
-    "cors": "^2.8.5",
     "express": "^4.21.1",
     "path": "^0.12.7"
   }

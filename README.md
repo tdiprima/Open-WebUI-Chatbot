@@ -6,13 +6,13 @@ To get started, run the following command in your terminal:
 npm start
 ```
 
-Once you've initialized the server, you can open the `index.html` file in VS Code.
+or you can do:
 
-To do this, follow these steps:
+```sh
+export OPENWEBUI_API_KEY=your_api_key_here
+node server.js
+```
 
-1. Open the `index.html` file in VS Code.
-2. Right-click on the file and select "Open with Live Server".
-
-Your web browser should automatically open at http://127.0.0.1:5500/index.html. If it's not port 5500, you need to adjust the CORS origin in `server.js`.
+Once you've initialized the server, you can open the `index.html` file at http://localhost:3002.
 
 To interact with the chatbot, simply enter your prompt in the web page and click the "Send" button.
