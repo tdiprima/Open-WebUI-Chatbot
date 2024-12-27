@@ -1,5 +1,9 @@
 # Open WebUI Chatbot
 
+![License](https://img.shields.io/github/license/tdiprima/OpenWebUIChatbot)
+![Languages](https://img.shields.io/github/languages/top/tdiprima/OpenWebUIChatbot)
+![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 To get started, run the following command in your terminal:
 
 ```sh
